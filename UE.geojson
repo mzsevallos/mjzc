@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "UE",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "objectid": 1, "ruc": "20511592179", "nombre": "UE 002 AGUA TUMBES", "cod_tipo": 3, "tipo": "Unidad Ejecutora", "cod_depa": "24", "departamento": "Tumbes", "cod_prov": "2401", "provincia": "Tumbes", "cod_dist": "240101", "distrito": "Tumbes", "direccion": null, "depacantatendido": 1, "provcantatendido": 3, "distcantatendido": 10, "transferencia_monto_2017": 0.0, "transferencia_monto_2018": 0.0, "anho": 2018, "region": "Costa", "x": -80.45577931, "y": -3.57503396, "website": "https://www.aguatumbes.gob.pe", "cod_otass": "Tum1", "cod_sunass": 8, "observacion": null, "fuente": "OTASS", "enlace": null }, "geometry": { "type": "Point", "coordinates": [ -80.455779314000011, -3.575033961999945 ] } }
+]
+}
